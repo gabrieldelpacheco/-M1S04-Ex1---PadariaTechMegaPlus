@@ -1,0 +1,12 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btncad {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(191, 240, 14);
+}
